@@ -1,0 +1,14 @@
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\bin\Debug\net8.0\ObjectOrientedProgramming.exe
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\bin\Debug\net8.0\ObjectOrientedProgramming.deps.json
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\bin\Debug\net8.0\ObjectOrientedProgramming.runtimeconfig.json
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\bin\Debug\net8.0\ObjectOrientedProgramming.dll
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\bin\Debug\net8.0\ObjectOrientedProgramming.pdb
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.AssemblyInfoInputs.cache
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.AssemblyInfo.cs
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.csproj.CoreCompileInputs.cache
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.dll
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\obj\Debug\net8.0\refint\ObjectOrientedProgramming.dll
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.pdb
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\obj\Debug\net8.0\ObjectOrientedProgramming.genruntimeconfig.cache
+c:\Users\mmaciel\OneDrive\Projetos\ObjectOrientedProgramming\obj\Debug\net8.0\ref\ObjectOrientedProgramming.dll

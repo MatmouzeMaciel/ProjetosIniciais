@@ -1,0 +1,14 @@
+c:\Users\MAT\Projetos\ListArrayData\bin\Debug\net8.0\ListArrayData.exe
+c:\Users\MAT\Projetos\ListArrayData\bin\Debug\net8.0\ListArrayData.deps.json
+c:\Users\MAT\Projetos\ListArrayData\bin\Debug\net8.0\ListArrayData.runtimeconfig.json
+c:\Users\MAT\Projetos\ListArrayData\bin\Debug\net8.0\ListArrayData.dll
+c:\Users\MAT\Projetos\ListArrayData\bin\Debug\net8.0\ListArrayData.pdb
+c:\Users\MAT\Projetos\ListArrayData\obj\Debug\net8.0\ListArrayData.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MAT\Projetos\ListArrayData\obj\Debug\net8.0\ListArrayData.AssemblyInfoInputs.cache
+c:\Users\MAT\Projetos\ListArrayData\obj\Debug\net8.0\ListArrayData.AssemblyInfo.cs
+c:\Users\MAT\Projetos\ListArrayData\obj\Debug\net8.0\ListArrayData.csproj.CoreCompileInputs.cache
+c:\Users\MAT\Projetos\ListArrayData\obj\Debug\net8.0\ListArrayData.dll
+c:\Users\MAT\Projetos\ListArrayData\obj\Debug\net8.0\refint\ListArrayData.dll
+c:\Users\MAT\Projetos\ListArrayData\obj\Debug\net8.0\ListArrayData.pdb
+c:\Users\MAT\Projetos\ListArrayData\obj\Debug\net8.0\ListArrayData.genruntimeconfig.cache
+c:\Users\MAT\Projetos\ListArrayData\obj\Debug\net8.0\ref\ListArrayData.dll

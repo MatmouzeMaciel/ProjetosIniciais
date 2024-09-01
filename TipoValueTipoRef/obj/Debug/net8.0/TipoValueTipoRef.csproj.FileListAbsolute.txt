@@ -1,0 +1,14 @@
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\bin\Debug\net8.0\TipoValueTipoRef.exe
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\bin\Debug\net8.0\TipoValueTipoRef.deps.json
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\bin\Debug\net8.0\TipoValueTipoRef.runtimeconfig.json
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\bin\Debug\net8.0\TipoValueTipoRef.dll
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\bin\Debug\net8.0\TipoValueTipoRef.pdb
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\obj\Debug\net8.0\TipoValueTipoRef.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\obj\Debug\net8.0\TipoValueTipoRef.AssemblyInfoInputs.cache
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\obj\Debug\net8.0\TipoValueTipoRef.AssemblyInfo.cs
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\obj\Debug\net8.0\TipoValueTipoRef.csproj.CoreCompileInputs.cache
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\obj\Debug\net8.0\TipoValueTipoRef.dll
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\obj\Debug\net8.0\refint\TipoValueTipoRef.dll
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\obj\Debug\net8.0\TipoValueTipoRef.pdb
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\obj\Debug\net8.0\TipoValueTipoRef.genruntimeconfig.cache
+c:\Users\MAT\OneDrive\Projetos\TipoValueTipoRef\obj\Debug\net8.0\ref\TipoValueTipoRef.dll

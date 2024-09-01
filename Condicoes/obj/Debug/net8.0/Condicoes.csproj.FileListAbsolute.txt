@@ -1,0 +1,14 @@
+c:\Users\MAT\Projetos\Condicoes\bin\Debug\net8.0\Condicoes.exe
+c:\Users\MAT\Projetos\Condicoes\bin\Debug\net8.0\Condicoes.deps.json
+c:\Users\MAT\Projetos\Condicoes\bin\Debug\net8.0\Condicoes.runtimeconfig.json
+c:\Users\MAT\Projetos\Condicoes\bin\Debug\net8.0\Condicoes.dll
+c:\Users\MAT\Projetos\Condicoes\bin\Debug\net8.0\Condicoes.pdb
+c:\Users\MAT\Projetos\Condicoes\obj\Debug\net8.0\Condicoes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MAT\Projetos\Condicoes\obj\Debug\net8.0\Condicoes.AssemblyInfoInputs.cache
+c:\Users\MAT\Projetos\Condicoes\obj\Debug\net8.0\Condicoes.AssemblyInfo.cs
+c:\Users\MAT\Projetos\Condicoes\obj\Debug\net8.0\Condicoes.csproj.CoreCompileInputs.cache
+c:\Users\MAT\Projetos\Condicoes\obj\Debug\net8.0\Condicoes.dll
+c:\Users\MAT\Projetos\Condicoes\obj\Debug\net8.0\refint\Condicoes.dll
+c:\Users\MAT\Projetos\Condicoes\obj\Debug\net8.0\Condicoes.pdb
+c:\Users\MAT\Projetos\Condicoes\obj\Debug\net8.0\Condicoes.genruntimeconfig.cache
+c:\Users\MAT\Projetos\Condicoes\obj\Debug\net8.0\ref\Condicoes.dll

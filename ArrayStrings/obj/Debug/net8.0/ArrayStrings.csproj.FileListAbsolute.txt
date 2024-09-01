@@ -1,0 +1,14 @@
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\bin\Debug\net8.0\ArrayStrings.exe
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\bin\Debug\net8.0\ArrayStrings.deps.json
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\bin\Debug\net8.0\ArrayStrings.runtimeconfig.json
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\bin\Debug\net8.0\ArrayStrings.dll
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\bin\Debug\net8.0\ArrayStrings.pdb
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\obj\Debug\net8.0\ArrayStrings.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\obj\Debug\net8.0\ArrayStrings.AssemblyInfoInputs.cache
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\obj\Debug\net8.0\ArrayStrings.AssemblyInfo.cs
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\obj\Debug\net8.0\ArrayStrings.csproj.CoreCompileInputs.cache
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\obj\Debug\net8.0\ArrayStrings.dll
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\obj\Debug\net8.0\refint\ArrayStrings.dll
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\obj\Debug\net8.0\ArrayStrings.pdb
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\obj\Debug\net8.0\ArrayStrings.genruntimeconfig.cache
+c:\Users\mmaciel\OneDrive\Projetos\ArrayStrings\obj\Debug\net8.0\ref\ArrayStrings.dll

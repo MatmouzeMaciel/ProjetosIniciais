@@ -1,0 +1,14 @@
+c:\Users\MAT\Projetos\Loops\bin\Debug\net8.0\Loops.exe
+c:\Users\MAT\Projetos\Loops\bin\Debug\net8.0\Loops.deps.json
+c:\Users\MAT\Projetos\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+c:\Users\MAT\Projetos\Loops\bin\Debug\net8.0\Loops.dll
+c:\Users\MAT\Projetos\Loops\bin\Debug\net8.0\Loops.pdb
+c:\Users\MAT\Projetos\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MAT\Projetos\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+c:\Users\MAT\Projetos\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+c:\Users\MAT\Projetos\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+c:\Users\MAT\Projetos\Loops\obj\Debug\net8.0\Loops.dll
+c:\Users\MAT\Projetos\Loops\obj\Debug\net8.0\refint\Loops.dll
+c:\Users\MAT\Projetos\Loops\obj\Debug\net8.0\Loops.pdb
+c:\Users\MAT\Projetos\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+c:\Users\MAT\Projetos\Loops\obj\Debug\net8.0\ref\Loops.dll
