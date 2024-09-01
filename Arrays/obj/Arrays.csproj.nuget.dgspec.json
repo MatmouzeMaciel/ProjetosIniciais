@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mmaciel\\OneDrive\\Projetos\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mmaciel\\OneDrive\\Projetos\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mmaciel\\OneDrive\\Projetos\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "c:\\Users\\mmaciel\\OneDrive\\Projetos\\Arrays\\Arrays.csproj",
-        "packagesPath": "C:\\Users\\mmaciel\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mmaciel\\OneDrive\\Projetos\\Arrays\\obj\\",
+        "projectPath": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj",
+        "packagesPath": "C:\\Users\\MAT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mmaciel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
