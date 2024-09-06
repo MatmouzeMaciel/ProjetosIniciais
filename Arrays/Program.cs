@@ -1,4 +1,6 @@
-﻿using System.Diagnostics.Contracts;
+﻿using System.ComponentModel;
+using System.Diagnostics.Contracts;
+using Arrays.Helper;
 
 namespace Arrays
 {
@@ -35,11 +37,13 @@ namespace Arrays
             //Criando uma matriz com valores predefinidos, onde cada valor entre {} representa os valores em cada linha
             int[,] matriz2 = new int[3, 2]
             {
-                { 0, 0}, //primeira linha, valores de [0,0] e [0,1]
-                { 1, 0}, //segunda linha, valores de [1,0] e [1,1]
-                { 4, 5} // terceira linha, valores de [2,0] e [2,1]
+                { 24, 19}, //primeira linha, valores de [0,0] e [0,1]
+                { 14, 45}, //segunda linha, valores de [1,0] e [1,1]
+                { 5, 89} // terceira linha, valores de [2,0] e [2,1]
             };
-
+            int[] matriz3 = [3, 54, 23, 671, 213, 436, 12, 46, 345, 123, 534];
+            int[] matriz4 = [34,651,64,652,234,6,3621,24,543,23,46,1,34,431,525,5];
+            int[] matriz5 = new int[matriz4.Length];
             //ao chamar Lenght em uma matriz ele retorna a quantidade de campos dentro do array
             Console.WriteLine(matriz.Length); // output: 12
             //ao chamar GetLenght(0) em uma matriz ele retorna a quantidade vetores da primeira dimensão
@@ -58,6 +62,7 @@ namespace Arrays
                     matriz[i, j] = x;
                 }
             }
+            Console.WriteLine("matriz:");
             /*Retorna os valores alocados no loop for acima, arrays, em qualquer dimensãop, o valor da primeira posição sempre será 0,
             da segunda posição será 1 e assim por diante*/
             for (var i = 0; i < matriz.GetLength(0); i++)
@@ -65,9 +70,65 @@ namespace Arrays
                 Console.WriteLine($"|{matriz[i, 0]}  {matriz[i, 1]}  {matriz[i, 2]}|");
             }
             
-
-
-
+            OperacoesArray operacoes = new OperacoesArray();
+            Console.WriteLine("matriz3 original:");
+            operacoes.ImprimirArray(matriz3);
+            Console.WriteLine("matriz3 BubbleSort:");
+            operacoes.OrdenarBubbleSort(ref matriz3);
+            operacoes.ImprimirArray(matriz3);
+            
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("Utilizando os métodos da Classe Array pronta do sistema:");
+            Console.WriteLine("matriz4 original:");
+            operacoes.ImprimirArray(matriz4);
+            Console.WriteLine("matriz4 OrdenarArray(Sort()):");
+            operacoes.OrdenarArray(ref matriz4);
+            operacoes.ImprimirArray(matriz4);
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("matriz5 CopiarArray(Copy()) da matriz4:");
+            operacoes.CopiarArray(ref matriz5, matriz4);
+            operacoes.ImprimirArray(matriz5);
+            Console.WriteLine("*****************************************");
+            Console.WriteLine("matriz5 ExisteNoArray(Exists())");
+            int valorProcurado = 25;
+            Boolean existe = operacoes.ExisteNoArray(matriz5, valorProcurado);
+            if (existe == true)
+            {
+                Console.WriteLine($"Valor {valorProcurado} encontrado");
+            }
+            else
+            {
+                Console.WriteLine($"Valor {valorProcurado} não Encontrado");
+            }
+            Boolean maiorQueZero = operacoes.TodosNoArrayMaiorQue(matriz5);
+            if (maiorQueZero == true)
+            {
+                Console.WriteLine($"Todos os valores dentro de matriz5 são Maiores que zero");
+            }
+            else
+            {
+                Console.WriteLine($"Nem todos os valores dentro de matriz5 são Maiores que zero");
+            }
+            int valorVerificador = 234;
+            int[] arrayGeradoValores = operacoes.RetornarValoresDoArrayMaioresQue(matriz5, valorVerificador);
+            if (arrayGeradoValores != null)
+            {
+                Console.WriteLine("*****************************************");
+                Console.WriteLine("matriz5 RetornarValoresDoArrayMaioresQue(FindAll()) > 140");
+                foreach (var a in arrayGeradoValores)
+                {
+                    System.Console.Write($"{a}  ");
+                }
+            }
+            int indexAchado = operacoes.RetornarIndexDoValorNoArray(matriz5,valorVerificador);
+            System.Console.WriteLine($"\nO index {indexAchado} dentro de matriz 5 corresponde ao valor {valorVerificador} ");
+            Console.WriteLine("*****************************************");
+            //Converter a matriz5 de int em um array de strings
+            string[] arrayConvertido = operacoes.ConverterArrayIntParaString(matriz5);
+            if (arrayConvertido.GetType() == typeof(string[]))
+            {
+                Console.WriteLine("tipo texto");
+            }
 
 
 
