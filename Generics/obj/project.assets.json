@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj",
-      "projectName": "Arrays",
-      "projectPath": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Generics\\Generics.csproj",
+      "projectName": "Generics",
+      "projectPath": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Generics\\Generics.csproj",
       "packagesPath": "C:\\Users\\MAT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\obj\\",
+      "outputPath": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Generics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

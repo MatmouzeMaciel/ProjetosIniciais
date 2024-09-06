@@ -129,6 +129,10 @@ namespace Arrays
             {
                 Console.WriteLine("tipo texto");
             }
+            if (arrayConvertido is string[])
+            {
+                Console.WriteLine("tipo texto");
+            }
 
 
 

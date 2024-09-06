@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj": {}
+    "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Generics\\Generics.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj": {
+    "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Generics\\Generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj",
-        "projectName": "Arrays",
-        "projectPath": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Generics\\Generics.csproj",
+        "projectName": "Generics",
+        "projectPath": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Generics\\Generics.csproj",
         "packagesPath": "C:\\Users\\MAT\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\obj\\",
+        "outputPath": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Generics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
