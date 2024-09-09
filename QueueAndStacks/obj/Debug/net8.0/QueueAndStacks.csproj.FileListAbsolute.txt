@@ -1,0 +1,15 @@
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\bin\Debug\net8.0\QueueAndStacks.exe
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\bin\Debug\net8.0\QueueAndStacks.deps.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\bin\Debug\net8.0\QueueAndStacks.runtimeconfig.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\bin\Debug\net8.0\QueueAndStacks.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\bin\Debug\net8.0\QueueAndStacks.pdb
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\obj\Debug\net8.0\QueueAndStacks.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\obj\Debug\net8.0\QueueAndStacks.AssemblyInfoInputs.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\obj\Debug\net8.0\QueueAndStacks.AssemblyInfo.cs
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\obj\Debug\net8.0\QueueAndStacks.csproj.CoreCompileInputs.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\obj\Debug\net8.0\QueueAndStacks.sourcelink.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\obj\Debug\net8.0\QueueAndStacks.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\obj\Debug\net8.0\refint\QueueAndStacks.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\obj\Debug\net8.0\QueueAndStacks.pdb
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\obj\Debug\net8.0\QueueAndStacks.genruntimeconfig.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\QueueAndStacks\obj\Debug\net8.0\ref\QueueAndStacks.dll

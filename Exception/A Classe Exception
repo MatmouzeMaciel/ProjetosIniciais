@@ -1,0 +1,64 @@
+A CLASSE EXCEPTION
+
+Toda exception em .NET é herdada da classe System.Exception;
+
+Algumas Exceptions são:
+    -IndexOutOfRangeException:
+        Acontece quando se tenta referenciar um array pelo index, sendo esse index referenciado menor que zero ou que exceda a quantidade de index presente no array;
+    -NullReferenceException:
+        Acontece quando se usa uma referencia que retorna null, quando se é necessário que objeto retorne algo;
+    -InvalidOperationException:
+        Acontece quando chama um método para um objeto, porém é invalido o uso daquele método no estado atual do objeto.
+    -ArgumentException:
+        Quando se é utilizado argumentos invalidos quando chama um método;
+    -ArgumentOutOfRangeException
+        Acontece quando é utilizado um valor fora do alcance do arguimento;
+    -DivideByZeroException:
+        Quando se divide algum valor por 0;
+    -FileNotFoundException:
+        Quando o arquivo referenciado não é encontrado pelo sistema;
+    -StackOverflowException:
+        Quando há uma conversão ou calculo que resulta no estouro da capacidade do tipo destino;
+    -OutOfMemoryException:
+        Acontece quando há falha na alocação de memória via new();
+    -KeyNotFoundException:
+        Quando a chave de um valor par ou de um objeto não é encontrado, tal como em um dictionary.
+
+Algumas Propriedades da classe System.Exceptions:
+    -Message:
+        Descrição legível para humanos com a acausa da excessão;
+    -InnerException:
+        Obtém Exception(s) superior(es) que levou à Exception atual;
+    -StackTrace:
+        Rastreamento do caminho até chegar no erro;
+    -Source:
+        Relaciona à aplicação ou objeto que causou a Exception;
+    -TargetSide:
+        Relaciona ao método que causou a Exception.
+
+Métodos da classe System.Exception:
+    -public virtual Exception GetBaseException(); :
+        Dado que há uma sequencia de Exception, o método retorna a Exception raiz que gera todas as outras;
+    -public virtual void GetObjectData(info, context); :
+        (info)Guarda objetos de dados serializados e (context)o contexto da origem e destino dos dados;
+    -public Type GetType(); :
+        Retorna o tipo da instancia referenciada no momento da Exception;
+    -public override string ToString(); :    
+        Retorna a atual Exception em forma de String;
+
+
+Prática de bons programadores:
+    -Caso tenha uma condição com chances de erro, verificar a possibilidade de checar a condição antes:
+        if (y == 0)
+        {
+            System.Console.WriteLine("Não foi possível dividir por zero");
+            ou
+            throw new DividedByZeroException();
+        }
+        else
+        {
+            resultado = x / y;
+        } 
+    -Use try/catch/finally em trechos que podem gerar excessões e que de fato sejam tratáveis;
+    -Nos blocos de catch ordene de forma decrescente, da classe mais específica para a mais genérica;
+    -Sempre que possível utilize o using para realizar a limpeza dos recursos alocados, se não for possível, utilize o finally;

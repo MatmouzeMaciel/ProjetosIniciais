@@ -1,0 +1,15 @@
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\bin\Debug\net8.0\Exception.exe
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\bin\Debug\net8.0\Exception.deps.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\bin\Debug\net8.0\Exception.runtimeconfig.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\bin\Debug\net8.0\Exception.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\bin\Debug\net8.0\Exception.pdb
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\obj\Debug\net8.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\obj\Debug\net8.0\Exception.AssemblyInfoInputs.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\obj\Debug\net8.0\Exception.AssemblyInfo.cs
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\obj\Debug\net8.0\Exception.csproj.CoreCompileInputs.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\obj\Debug\net8.0\Exception.sourcelink.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\obj\Debug\net8.0\Exception.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\obj\Debug\net8.0\refint\Exception.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\obj\Debug\net8.0\Exception.pdb
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\obj\Debug\net8.0\Exception.genruntimeconfig.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\Exception\obj\Debug\net8.0\ref\Exception.dll

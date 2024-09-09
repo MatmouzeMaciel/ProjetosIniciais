@@ -1,0 +1,15 @@
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\bin\Debug\net8.0\Dictionary.exe
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\bin\Debug\net8.0\Dictionary.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\obj\Debug\net8.0\Dictionary.sourcelink.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\obj\Debug\net8.0\Dictionary.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll
