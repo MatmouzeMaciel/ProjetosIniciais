@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\QueueAndStacks\\QueueAndStacks.csproj": {}
+    "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\QueueAndStacks\\QueueAndStacks.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\QueueAndStacks\\QueueAndStacks.csproj": {
+    "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\QueueAndStacks\\QueueAndStacks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\QueueAndStacks\\QueueAndStacks.csproj",
+        "projectUniqueName": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\QueueAndStacks\\QueueAndStacks.csproj",
         "projectName": "QueueAndStacks",
-        "projectPath": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\QueueAndStacks\\QueueAndStacks.csproj",
+        "projectPath": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\QueueAndStacks\\QueueAndStacks.csproj",
         "packagesPath": "C:\\Users\\MAT\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\QueueAndStacks\\obj\\",
+        "outputPath": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\QueueAndStacks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
