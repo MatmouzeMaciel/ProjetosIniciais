@@ -1,0 +1,15 @@
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\obj\Debug\net8.0\IO.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\obj\Debug\net8.0\IO.AssemblyInfoInputs.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\obj\Debug\net8.0\IO.AssemblyInfo.cs
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\obj\Debug\net8.0\IO.csproj.CoreCompileInputs.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\obj\Debug\net8.0\IO.sourcelink.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\bin\Debug\net8.0\IO.exe
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\bin\Debug\net8.0\IO.deps.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\bin\Debug\net8.0\IO.runtimeconfig.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\bin\Debug\net8.0\IO.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\bin\Debug\net8.0\IO.pdb
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\obj\Debug\net8.0\IO.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\obj\Debug\net8.0\refint\IO.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\obj\Debug\net8.0\IO.pdb
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\obj\Debug\net8.0\IO.genruntimeconfig.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\IO\obj\Debug\net8.0\ref\IO.dll
