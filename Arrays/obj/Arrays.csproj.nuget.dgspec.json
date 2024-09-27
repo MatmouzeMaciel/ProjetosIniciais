@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj",
+        "projectPath": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\MAT\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\obj\\",
+        "outputPath": "C:\\Users\\MAT\\OneDrive\\ProjetosIniciais\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\bin\Debug\net8.0\Delegate.exe
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\bin\Debug\net8.0\Delegate.deps.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\bin\Debug\net8.0\Delegate.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\bin\Debug\net8.0\Delegate.pdb
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\obj\Debug\net8.0\Delegate.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\obj\Debug\net8.0\Delegate.pdb
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+c:\Users\MAT\OneDrive\ProjetosIniciais\Delegate\obj\Debug\net8.0\ref\Delegate.dll

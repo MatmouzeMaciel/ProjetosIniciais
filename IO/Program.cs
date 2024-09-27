@@ -6,15 +6,29 @@ namespace IO
         static void Main()
         {
             //cria e armazena valor do path a ser adicionado a pasta
-            var path = System.AppContext.BaseDirectory + "\\testeBinFolder.txt";
+            string path = System.AppContext.BaseDirectory + "\\testeBinFolder.txt";
             //cria projectRoot como uma variável de texto pra armazenar o path raiz do projeto
             string projectRoot = Path.GetFullPath(Path.Combine(AppContext.BaseDirectory, "..", "..", ".."));
             //Utiliza o path raiz 
-            var path2 = Path.Combine(projectRoot, "testeRoot.txt");
+            string path2 = Path.Combine(projectRoot, "testeRoot.txt");
             Console.WriteLine("Digite o nome do arquivo a ser criado");
-            var nome = Console.ReadLine();
-            FormatarNome(ref nome);
-            var path3 = Path.Combine(projectRoot, nome);
+            // var nome = Console.ReadLine();
+            // FormatarNome(ref nome);
+            // var path3 = Path.Combine(projectRoot, nome);
+
+            string nomePasta = "Globo";
+            List<string> subPastasGlobo = ["AmericaDoNorte", "AmericaCentral", "AmericaDoSul"];
+            string nomePasta2 = "Europa";
+
+
+            CriarPasta(projectRoot, ref nomePasta);
+            CriarPastasComLista(nomePasta, ref subPastasGlobo);
+            CriarPasta(nomePasta, ref nomePasta2);
+
+            System.Console.WriteLine($" caminho da pasta Globo: {nomePasta}");
+            System.Console.WriteLine($" caminho da pasta America Do Norte: {subPastasGlobo[0]}");
+            System.Console.WriteLine($" caminho da pasta Europa: {nomePasta2}");
+
 
 
             //Utilizado para inserção de daos de forma simples e rápida em um arquivo, ideal para casos que não necessitam multiplas mudanças no arquivo
@@ -35,7 +49,7 @@ namespace IO
             sw.Flush();
 
 
-            CriarArquivo(path3);
+            // CriarArquivo(path3);
             
             
             
@@ -55,22 +69,29 @@ namespace IO
 
         static void CriarArquivo(string path)
         {
-            try{
                 var sw = File.CreateText(path);
                 sw.WriteLine("adicionado texto à linha 1 do arquivo");
                 sw.Flush();
-            
-            }
-            catch (Exception e)
-            {
-                System.Console.WriteLine(e.Message);
-            }
-            finally
-            {
-                System.Console.WriteLine(path);
-            }
-            
-
         }
+
+        static void CriarPastasComLista(string diretorioAlvo, ref List<string> nomePastas)
+        {
+            for (int i = 0; i < nomePastas.Count; i++)
+            {
+                nomePastas[i] = Path.Combine(diretorioAlvo, nomePastas[i]);
+                Directory.CreateDirectory(nomePastas[i]);
+                    
+                
+            }
+        }
+
+        static void CriarPasta(string diretorioAlvo, ref string nomePasta)
+        {
+            nomePasta = Path.Combine(diretorioAlvo, nomePasta);
+            Directory.CreateDirectory(nomePasta);
+            
+        }
+
+        
     }
 }
